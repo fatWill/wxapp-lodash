@@ -1,11 +1,16 @@
 {
-  "_from": "miniprogram-lodash",
-  "_id": "miniprogram-lodash@1.0.0",
-  "_location": "/lodash",
-  "autor": {
-    "name": "fatwill",
-    "email": "872016576@qq.com"
+  "name": "miniprogram-lodash",
+  "version": "1.0.0",
+  "description": "Copy lodash and transfrom to miniprogram;",
+  "main": "miniprogram-lodash.js",
+  "scripts": {
+    "test": "echo \"See https://github.com/fatWill/miniprofram-lodash.\""
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatWill/miniprofram-lodash.git"
+  },
+  "author": "fatwill",
   "originalAuthor": {
     "name": "John-David Dalton",
     "email": "john.david.dalton@gmail.com",
@@ -24,16 +29,9 @@
       "url": "https://mathiasbynens.be/"
     }
   ],
-  "description": "Copy lodash and transfrom to miniprogram",
   "license": "ISC",
-  "main": "miniprogram-lodash.js",
-  "name": "miniprogram-lodash",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fatWill/miniprofram-lodash.git"
+  "bugs": {
+    "url": "https://github.com/fatWill/miniprofram-lodash/issues"
   },
-  "scripts": {
-    "test": "echo \"See https://github.com/fatWill/miniprofram-lodash.\""
-  },
-  "version": "1.0.0"
+  "homepage": "https://github.com/fatWill/miniprofram-lodash#readme"
 }
