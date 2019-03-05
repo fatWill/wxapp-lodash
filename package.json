@@ -1,37 +1,19 @@
 {
-  "name": "miniprogram-lodash",
+  "name": "wxapp-lodash",
   "version": "1.0.0",
-  "description": "Copy lodash and transfrom to miniprogram;",
-  "main": "miniprogram-lodash.js",
+  "description": "微信小程序环境下运行的lodash",
+  "main": "lodash.min.js",
   "scripts": {
-    "test": "echo \"See https://github.com/fatWill/miniprofram-lodash.\""
+    "test": "echo \"See https://github.com/fatWill/wxapp-lodash.\""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fatWill/miniprofram-lodash.git"
+    "url": "git+https://github.com/fatWill/wxapp-lodash.git"
   },
   "author": "fatwill",
-  "originalAuthor": {
-    "name": "John-David Dalton",
-    "email": "john.david.dalton@gmail.com",
-    "url": "http://allyoucanleet.com/"
-  },
-
-  "contributors": [
-    {
-      "name": "John-David Dalton",
-      "email": "john.david.dalton@gmail.com",
-      "url": "http://allyoucanleet.com/"
-    },
-    {
-      "name": "Mathias Bynens",
-      "email": "mathias@qiwi.be",
-      "url": "https://mathiasbynens.be/"
-    }
-  ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fatWill/miniprofram-lodash/issues"
+    "url": "https://github.com/fatWill/wxapp-lodash/issues"
   },
-  "homepage": "https://github.com/fatWill/miniprofram-lodash#readme"
+  "homepage": "https://github.com/fatWill/wxapp-lodash#readme"
 }
