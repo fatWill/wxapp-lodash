@@ -2,7 +2,7 @@
   "name": "wxapp-lodash",
   "version": "1.0.1",
   "description": "微信小程序环境下运行的lodash",
-  "main": "lodash.min.js",
+  "main": "lodash.js",
   "scripts": {
     "test": "echo \"See https://github.com/fatWill/wxapp-lodash.\""
   },
